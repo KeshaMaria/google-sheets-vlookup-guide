@@ -1,7 +1,7 @@
 # VLOOKUP with Category Selection and Error Handling
 
 **Reading time:** 5 minutes  
-**Difficulty level:** intermediate ![Difficulty level](images/00-difficulty-level.png)
+**Difficulty level:** intermediate
 
 **Target audience:** users who are confident with VLOOKUP and the IF function and know how to reference another sheet.
 

@@ -32,7 +32,6 @@ google-sheets-vlookup-guide
 │   ├── 03-iferror.md         # Step 3: IFERROR / Этап 3: ЕСЛИОШИБКА
 │   ├── 04-result.md          # Final result / Результат
 │   └── images                # Screenshots for Russian version
-│       ├── 00-difficulty-level.png
 │       ├── 01-orders-table.png
 │       ├── 02-price-list-table.png
 │       ├── 03-step1-vlookup.png
@@ -46,7 +45,6 @@ google-sheets-vlookup-guide
     ├── 03-iferror.md         # Step 3: IFERROR
     ├── 04-result.md          # Final result
     └── images                # Screenshots for English version
-        ├── 00-difficulty-level.png
         ├── 01-orders-table.png
         ├── 02-price-list-table.png
         ├── 03-step1-vlookup.png
