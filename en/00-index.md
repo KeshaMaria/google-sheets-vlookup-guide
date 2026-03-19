@@ -10,9 +10,11 @@ This document uses two tables as an example to demonstrate how to use a smart VL
 There are two tables on two sheets: Orders and Price list.
 
 ![Orders table](images/01-orders-table.png)
+
 *Fig. Orders table. The "Price" column is currently empty and needs to be filled.*
 
 ![Price list table](images/02-price-list-table.png)
+
 *Fig. Price list table. Products and two price types.*
 
 **Task:** Fill in the "Price" column in the "Orders" table: for each product, determine the price type (retail or wholesale), find the corresponding price in the price list, and if the product is missing — display "out of stock".
