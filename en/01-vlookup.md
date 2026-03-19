@@ -3,6 +3,7 @@
 Check whether a product from the "Orders" table exists in the "Price list" table.
 
 ![Column comparison: the VLOOKUP formula checks if a product from the order exists in the price list](images/03-step1-vlookup.png)
+
 *Fig. Column comparison: the VLOOKUP formula checks if a product from the order exists in the price list.*
 
 You can compare two columns from two different tables using the VLOOKUP formula:
